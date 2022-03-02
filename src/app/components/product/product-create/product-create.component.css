@@ -1,0 +1,18 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin: 20px 15px 0px 0px;
+}
+
+.button-salvar {
+    background-color: #FE621D;
+    color: #FFF;
+}
+
+.button-cancelar {
+    color: #FE621D;
+}
+
